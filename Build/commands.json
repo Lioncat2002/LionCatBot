@@ -1,0 +1,8 @@
+{
+  "commands": {
+    "!Hi": "Hello",
+  "!KittyCat": "Meow"
+  },
+  "token":"Add Bot token here"
+
+}
