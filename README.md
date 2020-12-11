@@ -5,7 +5,7 @@
 A very simple bot written in python
 
 # What can it do?
-It can:
+<br>It can:</br>
 1.Reply to you messages
 
 You can:
